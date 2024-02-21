@@ -1,0 +1,15 @@
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\bin\Debug\net8.0\CodeGeneratorCRUD.exe
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\bin\Debug\net8.0\CodeGeneratorCRUD.deps.json
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\bin\Debug\net8.0\CodeGeneratorCRUD.runtimeconfig.json
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\bin\Debug\net8.0\CodeGeneratorCRUD.dll
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\bin\Debug\net8.0\CodeGeneratorCRUD.pdb
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\CodeGeneratorCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\CodeGeneratorCRUD.AssemblyInfoInputs.cache
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\CodeGeneratorCRUD.AssemblyInfo.cs
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\CodeGeneratorCRUD.csproj.CoreCompileInputs.cache
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\CodeGeneratorCRUD.sourcelink.json
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\CodeGeneratorCRUD.dll
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\refint\CodeGeneratorCRUD.dll
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\CodeGeneratorCRUD.pdb
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\CodeGeneratorCRUD.genruntimeconfig.cache
+C:\Users\enzzo.alves\workspace\myProjects\CodeGenerator\CodeGeneratorCRUD\obj\Debug\net8.0\ref\CodeGeneratorCRUD.dll
